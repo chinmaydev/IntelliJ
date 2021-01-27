@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-     String string = "aaq12312";
+        String string = "aaq12312";
         extracted(string);
         int i = 1;
     }
@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Replicate Conflict - Remote");
-        System.out.println("Replicate Conflict - Remote");
+        System.out.println("Replicate Conflict - LocalRemote");
 
     }
 }
