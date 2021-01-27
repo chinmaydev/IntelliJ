@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
      String string = "aaq12312";
         extracted(string);
-
+        int i = 1;
     }
 
     private static void extracted(String string) {
